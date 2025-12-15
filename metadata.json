@@ -1,0 +1,5 @@
+{
+  "name": "School Photo Payment System",
+  "description": "A payment tracking system for student photos (Class 3/7, Year 2/2568) allowing order management, cost calculation, and status reporting.",
+  "requestFramePermissions": []
+}
